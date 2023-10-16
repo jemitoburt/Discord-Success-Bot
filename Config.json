@@ -1,4 +1,9 @@
 {
-    "channel_id": 1,
-    "bot_token": "bot_token"
+  "channel_id": 1,
+  "bot_token": "XXXXXX",
+  "image_points": 1,
+  "twitter_points": 5,
+  "embed_color": 1,
+  "embed_text": "",
+  "embed_icon": ""
 }
